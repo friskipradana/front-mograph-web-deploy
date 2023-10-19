@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/front-mograph-web-deploy/static/css/main.50738228.chunk.css",
+    "main.js": "/front-mograph-web-deploy/static/js/main.e28f6a14.chunk.js",
+    "main.js.map": "/front-mograph-web-deploy/static/js/main.e28f6a14.chunk.js.map",
+    "runtime-main.js": "/front-mograph-web-deploy/static/js/runtime-main.b600c435.js",
+    "runtime-main.js.map": "/front-mograph-web-deploy/static/js/runtime-main.b600c435.js.map",
+    "static/css/2.7593e019.chunk.css": "/front-mograph-web-deploy/static/css/2.7593e019.chunk.css",
+    "static/js/2.13e3b560.chunk.js": "/front-mograph-web-deploy/static/js/2.13e3b560.chunk.js",
+    "static/js/2.13e3b560.chunk.js.map": "/front-mograph-web-deploy/static/js/2.13e3b560.chunk.js.map",
+    "static/js/3.13922520.chunk.js": "/front-mograph-web-deploy/static/js/3.13922520.chunk.js",
+    "static/js/3.13922520.chunk.js.map": "/front-mograph-web-deploy/static/js/3.13922520.chunk.js.map",
+    "index.html": "/front-mograph-web-deploy/index.html",
+    "precache-manifest.741a1869418377cb4a30155c173ff1bd.js": "/front-mograph-web-deploy/precache-manifest.741a1869418377cb4a30155c173ff1bd.js",
+    "service-worker.js": "/front-mograph-web-deploy/service-worker.js",
+    "static/css/2.7593e019.chunk.css.map": "/front-mograph-web-deploy/static/css/2.7593e019.chunk.css.map",
+    "static/css/main.50738228.chunk.css.map": "/front-mograph-web-deploy/static/css/main.50738228.chunk.css.map",
+    "static/js/2.13e3b560.chunk.js.LICENSE.txt": "/front-mograph-web-deploy/static/js/2.13e3b560.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/front-mograph-web-deploy/static/media/rectangle.96220059.svg",
+    "static/media/ellipse_object.svg": "/front-mograph-web-deploy/static/media/ellipse_object.324d2806.svg",
+    "static/media/email.svg": "/front-mograph-web-deploy/static/media/email.b9d2b882.svg",
+    "static/media/location-no-color.svg": "/front-mograph-web-deploy/static/media/location-no-color.fd23f350.svg",
+    "static/media/my_photo.png": "/front-mograph-web-deploy/static/media/my_photo.f12e6fe1.png",
+    "static/media/phone.svg": "/front-mograph-web-deploy/static/media/phone.25cc5745.svg",
+    "static/media/polygon_object.svg": "/front-mograph-web-deploy/static/media/polygon_object.cae5c130.svg",
+    "static/media/rectangle_object.svg": "/front-mograph-web-deploy/static/media/rectangle_object.5725e35d.svg",
+    "static/media/search.svg": "/front-mograph-web-deploy/static/media/search.3981bb1c.svg",
+    "static/media/search_white.svg": "/front-mograph-web-deploy/static/media/search_white.5c367804.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b600c435.js",
+    "static/css/2.7593e019.chunk.css",
+    "static/js/2.13e3b560.chunk.js",
+    "static/css/main.50738228.chunk.css",
+    "static/js/main.e28f6a14.chunk.js"
+  ]
+}
